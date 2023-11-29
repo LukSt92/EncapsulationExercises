@@ -10,6 +10,10 @@ namespace EncapsulationExercises
     {
         static void Main(string[] args)
         {
+            SwordDamage swordDamage = new SwordDamage();
+            Random random= new Random();
+
+            
         }
     }
 }
